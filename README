@@ -7,7 +7,7 @@ a rails plugin that and makes generating google maps easy as pie
 ======================================================
 INSTALL
 ======================================================
-script/plugin install git://github.com/bhedana/google_maps.git
+script/plugin install git://github.com/DrMark/google_maps.git
 
 
 
